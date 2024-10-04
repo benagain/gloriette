@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "gloriette-sipping-gin"
+title : "Gloriette Sipping Gin"
+content: |
+  <p>
+    Our Sipping Gin is a unique experience with its earthy sweetness and aromatic depth, pair with Sicilian lemon or ginger ale and a slice of lemon.
+    Or perhaps for those who prefer to savour their drink: serve simply on the rocks to savour the exotic mixture of fruits and botanicals.
+  </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+image: "images/sipping.jpg"
+

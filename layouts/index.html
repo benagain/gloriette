@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.s1_welcome }}
+	{{ partial "spotlight" site.Data.s2_ourgin }}
+	{{ partial "spotlight" site.Data.s3_artisan }}
+	{{ partial "spotlight" site.Data.s4_kingscut }}
+	{{ partial "spotlight" site.Data.s5_sipping }}
+	{{ partial "spotlight" site.Data.s6_findus }}
+	<!-- {{ partial "gallery" site.Data.gallery }}
+	{{ partial "items" site.Data.items }}
+	{{ partial "elements" . }}
+	{{ partial "elements_reference" . }} -->
+	{{ partial "footer" . }}
+
+{{ end }}

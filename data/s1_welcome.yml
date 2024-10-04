@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "welcome"
+title : ""
+content: |
+  We are a small, family managed Distillery in beautiful South Dorset. Our mission is
+  to craft, produce and purvey the finest drink inspired by the beauty and majesty of
+  Corfe Castle &amp; The Isle of Purbeck and our passion for flavour, depth &amp; quality.
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+image: "images/artisan-gin.gif"

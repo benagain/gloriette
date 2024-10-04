@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "find-us"
+title : "Where to find us"
+content: |
+  <p>Here you will find information on our partner pubs & restaurants and other prestigious outlets as well as upcoming Festivals where we will be showing our wares!  </p>
+  <p>You will also be able to buy from us direct on-line soon and take a look at our elite 100 club (U.K. & International). </p>
+  <p>All Coming soon! </p>
+

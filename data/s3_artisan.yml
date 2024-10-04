@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "gloriette-artisan-gin"
+id: "artisan"
+title : "Gloriette Artisan Gin"
+content: |
+  <p>Our delicious award-winning Gloriette Artisan Gin is crafted using a fine and intricate blend of 45 botanicals that bring a level of depth and complexity that is simply beautiful.  </p>
+  <p>This exquisite gin captivates the palate with a refreshing explosion of flavour that is balanced with a subtle heat, smooth aromatic complexity, and a lingering finish that is curiously moreish!</p>
+  <p>Our Artisan Gin recipe won London Spirits Competition Silver Medal place in 2022 and received this accolade from the judges:</p>
+  <p>“Floral and delicate fruity notes on the nose and palate.  Well-rounded with a pleasantly long aftertaste”.</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+button: 
+image: "images/artisan-gin.jpg"

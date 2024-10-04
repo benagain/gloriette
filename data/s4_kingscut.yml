@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "gloriette-kings-cut"
+title : "Gloriette King’s Gin"
+content: |
+  <p>Our Navy strength Gin is exceptionally robust.  Enjoy King’s Cut Gin with Mediterranean tonic and a slice of lime to allow the enchanting flavours to enliven the palate. </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+button: 
+image: "images/kings-cut.jpg"

@@ -1,0 +1,22 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "our-gin"
+title : "Our Gin"
+content: |
+  <em>Introducing our Gloriette Gin</em>
+  <p>  
+  We have a small distillery where we create our exquisite small batch vacuum distilled Gloriette Gins.  Developed and perfected in the shadow of the mighty ruins of Corfe Castle on the beautiful Isle of Purbeck. 
+  </p>
+  <p>
+  The name Gloriette is inspired by the Gloriette Palace that once stood within Corfe Castle.  It was a secluded place reserved for the pleasure and enjoyment of the King’s inner circle and most distinguished guests. 
+  </p>
+  <p>
+  Full of elegance and poise, and with every detail crafted in harmony; our Gloriette Gins bring the spirit of the Gloriette Palace to life with enticing tastes, aromas and flavours that are both delicious and intriguing. 
+  </p>
+  <p>
+  We invite you to step away from your day to day and become immersed in special moments with those who enrich your life.
+  </p>
+  <p>
+  We would like to present our Gloriette Artisan, King’s Cut and Sipping Gins.
+  </p>
+# image: "images/spotlight02.jpg"
