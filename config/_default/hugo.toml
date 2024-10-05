@@ -3,6 +3,8 @@
 ## -----------------------------------------------
 
 theme = "hugo-story"
+title = "Gloriette Spirits & Botanicals"
+copyright = "{year}"
 
 ## -----------------------------------------------
 ## Publish

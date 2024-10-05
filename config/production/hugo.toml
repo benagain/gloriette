@@ -2,8 +2,8 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
-copyright = "{year}"
+#title = "Hugo Story"
+#copyright = "{year}"
 
 ## -----------------------------------------------
 ## Publish
