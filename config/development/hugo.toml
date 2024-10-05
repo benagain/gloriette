@@ -31,16 +31,16 @@ disableKinds = ["taxonomy", "section"]
 ## Site Parameters
 ## -----------------------------------------------
 
-[Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo = "images/banner.jpg"
-  favicon = true
-
-[Params.social]
-  email = "enquiries@gloriette.co.uk"
-  facebook = "https://facebook.com/GlorietteGin/"
-  twitter = "https://twitter.com/Gloriette_Gin"
-  instagram = "https://instagram.com/GlorietteGin"
+#[Params]
+#  description = "Gloriette Spirits & Botanicals"
+#  logo = "images/banner.jpg"
+#  favicon = true
+#
+#[Params.social]
+#  email = "enquiries@gloriette.co.uk"
+#  facebook = "https://facebook.com/GlorietteGin/"
+#  twitter = "https://twitter.com/Gloriette_Gin"
+#  instagram = "https://instagram.com/GlorietteGin"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

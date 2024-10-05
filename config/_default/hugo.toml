@@ -32,7 +32,14 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
+  description = "Gloriette Spirits & Botanicals"
+  logo = "images/banner.jpg"
+  favicon = true
 
 [Params.social]
+  email = "enquiries@gloriette.co.uk"
+  facebook = "https://facebook.com/GlorietteGin/"
+  twitter = "https://twitter.com/Gloriette_Gin"
+  instagram = "https://instagram.com/GlorietteGin"
 
 [Params.asset]
